@@ -1,0 +1,21 @@
+.body_background {
+  background-image:
+    url("https://images.unsplash.com/photo-1595663823598-931cd6b854fe?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjE0NTg5fQ");
+  background-position: center;
+  background-size: cover;
+}
+
+h1 {
+  color: 0D47A1;
+  font-size: 40px;
+}
+
+#myCanvas {
+  border-width: 10px;
+  background-color: #FFFDE7;
+  border-style: ridge;
+}
+
+span {
+  font-size: 20px;
+}
